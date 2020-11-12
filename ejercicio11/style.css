@@ -1,0 +1,15 @@
+h1{color: dodgerblue;
+    font-family: initial;
+    font-size: 40px;}
+    p{text-align: center;
+        font-family: monospace ;
+    font-size: 25px;
+    position: relative; top: 110px;}
+    body{background-color: burlywood;
+    }
+    div{
+        font-family: fantasy;
+        font-size: 30px;
+        background-color: brown;
+        color: bisque;
+    }
